@@ -1,0 +1,19 @@
+footer{
+
+    background-color: #1d3947;
+    color: white;
+    height: 100px;
+    text-align: justify;
+    padding-left: 5.5cm;
+    padding-right: 5.5cm;
+    padding-top: 0.5cm;
+  }
+  form {
+    margin-bottom: 2rem;
+  }
+  #TextoBsAs {
+    text-align: end;
+    padding-inline-end: 10rem;
+    padding-top: 17rem;
+    padding-left: 55em;
+  }
